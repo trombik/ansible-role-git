@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: git
   author: Tomoyuki Sakurai
   description: Install `git` and git-related packages. Nothing else.
   company: N/A
